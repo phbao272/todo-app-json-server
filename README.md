@@ -1,2 +1,2 @@
-- DEMO: 
+- DEMO: https://todo-app-272.netlify.app
 - API: https://todo-list-json-server.herokuapp.com/api/todo-list
